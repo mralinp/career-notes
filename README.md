@@ -4,7 +4,8 @@ This repo i write every useful concept that i've learned during my career as a s
 ## Table of contents
 
 - [Git](/git)
-- [Python](python)
+- [Python](/python)
+- [Go](/go)
 - [Solid Principals](/solid-principles)
 - [SQL Database](/sql)
 - [Redis](/redis)

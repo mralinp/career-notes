@@ -18,7 +18,11 @@ class Person:
 p1 = Person("Ali Naderi")
 p2 = Person("Ehsan Vakhshoori")      
 
+# Monkey patch attribute
 p1.coin = 1618033
+
+# Monkey code method
+p1.pass_code = lambda : "1239876298374"
 
 print(dir(p1))
 print(dir(p2))

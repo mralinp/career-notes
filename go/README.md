@@ -183,3 +183,9 @@ fmt.Println(person2.city) // Outputs: Los Angeles
 person1.age = 31
 fmt.Println(person1.age) // Outputs: 31
 ```
+
+Structs in Go are value types, meaning when you assign a struct to another variable or pass it as an argument to a function, **a copy of the struct is made**. **This contrasts with slices and maps, which are reference types**.
+
+Structs are commonly used to represent real-world entities and data structures in Go programs. They provide a convenient way to organize related data and pass it around as a single unit.
+
+## 

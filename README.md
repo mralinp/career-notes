@@ -18,3 +18,4 @@ This repository is about documenting every useful concept that i've learned duri
 - [GraphQL](/graph-ql)
 - [Machine Learning](/machine-learning)
 - [PyTorch](/pytorch)
+- [Linux](/linux)

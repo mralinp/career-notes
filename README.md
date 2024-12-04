@@ -19,3 +19,4 @@ This repository is about documenting every useful concept that i've learned duri
 - [Machine Learning](/machine-learning)
 - [PyTorch](/pytorch)
 - [Linux](/linux)
+- [NLP](/nlp)
